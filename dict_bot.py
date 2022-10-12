@@ -5,7 +5,7 @@
 
 from telebot import TeleBot, types
 
-bot = TeleBot(token='Введите_сюда_свой_токен', parse_mode='html') # создание бота
+bot = TeleBot(token='5750856023:AAGThH4tbzrzI3BH5ce9E7QbHvnYOKQMYcI', parse_mode='html') # создание бота
 
 DEFINITOINS = {
 
